@@ -2,18 +2,18 @@
 #include <string>
 #include "nim_audio.h"
 JNIEXPORT jboolean JNICALL
+
 Java_com_example_hzliwangpeng_nim_1audio_1test_1aos_MainActivity_nim_1audio_1init_1module(
         JNIEnv *env, jobject instance, jstring user_data_parent_path_) {
     const char *user_data_parent_path = env->GetStringUTFChars(user_data_parent_path_, 0);
- //    nim_audio_init_module(user_data_parent_path);
-
+    nim_audio_init_module(user_data_parent_path);
     env->ReleaseStringUTFChars(user_data_parent_path_, user_data_parent_path);
 }
 
 JNIEXPORT jboolean JNICALL
 Java_com_example_hzliwangpeng_nim_1audio_1test_1aos_MainActivity_nim_1audio_1uninit_1module(
         JNIEnv *env, jobject instance) {
- //   nim_audio_uninit_module();
+  // nim_audio_uninit_module();
 }
 
 JNIEXPORT jboolean JNICALL

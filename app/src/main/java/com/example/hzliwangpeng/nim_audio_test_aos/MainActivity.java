@@ -3,9 +3,12 @@ package com.example.hzliwangpeng.nim_audio_test_aos;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.method.ScrollingMovementMethod;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
+import com.netease.unitywrapper.player.*;
+import com.netease.unitywrapper.recorder.*;
 
 public class MainActivity extends AppCompatActivity {
 

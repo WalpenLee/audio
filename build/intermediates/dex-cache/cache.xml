@@ -3,6 +3,24 @@
 
     <item
         is-multidex="false"
+        jar="C:\Users\hzliwangpeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_0fca5e6c5ba7dd95a45a5e25483e1811d2ed6332.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Nim_audio_test_aos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_8b5f6791db8295f1e66e2a01b076eef4fc31269a.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="D:\Nim_audio_test_aos\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
         jumboMode="false"
         optimize="true"
@@ -39,21 +57,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="C:\Users\hzliwangpeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jar="D:\Nim_audio_test_aos\app\libs\ne-recordAndPlayer-v1.0.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_0fca5e6c5ba7dd95a45a5e25483e1811d2ed6332.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Nim_audio_test_aos\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_8b5f6791db8295f1e66e2a01b076eef4fc31269a.jar" />
+        sha1="f5f64aa9c6e876ac0d71fd588626d6eb8eff053d">
+        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\ne-recordAndPlayer-v1.0_923821fc059664bc3bf81a52e0cd0509ba7880f7.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,15 +90,6 @@
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
         <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_76e12aad1a2caed9d0f701c36ef68cffbe278448.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="D:\Nim_audio_test_aos\app\src\libs\ne-recordAndPlayer-v1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f5f64aa9c6e876ac0d71fd588626d6eb8eff053d">
-        <dex dex="D:\Nim_audio_test_aos\app\build\intermediates\pre-dexed\debug\ne-recordAndPlayer-v1.0_4815088e59b111b9bdab86ac9fec8d70a6ae679e.jar" />
     </item>
     <item
         is-multidex="false"

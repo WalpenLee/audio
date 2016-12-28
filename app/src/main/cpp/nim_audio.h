@@ -1,10 +1,4 @@
-﻿/** @file nim_audio.h
-  * @brief NIM 提供的语音录制和播放接口
-  * @copyright (c) 2015, NetEase Inc. All rights reserved
-  * @author Oleg
-  * @date 2015/2/10
-  */
-
+﻿
 #ifndef _NIM_AUDIO_MODULE_SDK_H_
 #define _NIM_AUDIO_MODULE_SDK_H_
 #include "nim_audio_def.h"
